@@ -1,0 +1,1 @@
+This program detects your hand through a camera connected to your computer, determines the number of fingers on your hand and counts your fingers. The program was developed using Mediapipe and OpenCV libraries.
